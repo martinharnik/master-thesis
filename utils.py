@@ -14,7 +14,7 @@ load_dotenv()
 # Initialize the AzureChatOpenAI client
 llm = AzureChatOpenAI(
     default_headers={"id": os.getenv("AZURE_OPENAI_ID")},
-    azure_endpoint=os.getenv("AZURE_ENDPOINT"),
+    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
     azure_deployment="gpt-4o_deployment0",
     api_version="2024-02-01",
     openai_api_key=os.getenv("AZURE_OPENAI_KEY"),
