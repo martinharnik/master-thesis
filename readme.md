@@ -1,4 +1,8 @@
 # Applying AI for Text Extraction from Documents and Its Integration into a Credit Analysis Application
+### Author of thesis: Martin Harník
+### Study programme: Data and analytics for business
+### Minor track: Practice in data and analytics for business
+
 # Introduciton
 
 A flowchart representing the process:
