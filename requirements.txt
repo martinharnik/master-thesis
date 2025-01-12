@@ -1,0 +1,9 @@
+python-dotenv
+openai
+langchain
+langchain_openai
+fitz
+azure-core
+azure-ai-documentintelligence
+oracledb
+pandas
