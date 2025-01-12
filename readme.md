@@ -1,11 +1,11 @@
 # Applying AI for Text Extraction from Documents and Its Integration into a Credit Analysis Application
-# 1. Introduciton
+# Introduciton
 
-Grafická reprezentace procesu:
+A flowchart representing the process:
 
 ![Flowchart](Flowchart.jpg)
 
-Reprezentace procesu pseudokódem:
+The process represented by a pseudocode:
 
 ```plaintext
 utils.py
