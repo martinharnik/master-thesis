@@ -9,7 +9,7 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence.models import AnalyzeResult
 
 # Load environment variables
-load_dotenv()
+load_dotenv(dotenv_path="env\.env")
 
 # Initialize the AzureChatOpenAI client
 llm = AzureChatOpenAI(
